@@ -2,3 +2,4 @@
 
 
 Hemos creado repositorio en local con git init
+Hemos actualizado con pull

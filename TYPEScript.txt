@@ -1,0 +1,17 @@
+descargar en Ty
+
+herrramientas
+Visual Studio code
+node.js
+PowerShell
+
+si tcs -v no sale en PowerShell
+Get-ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
+
+
+
+tsc app.ts para crear y actualiza fichero ts a js
+tsc app.ts --watch actualiza automaticamente
+node app muestra el mensaje
+
